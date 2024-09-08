@@ -22,4 +22,4 @@ An event booking system built using XAMPP and Visual Studio Code, focusing on ef
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/aryan1210718/Event-Booking-Project-using-PHP-and-MySQL>
